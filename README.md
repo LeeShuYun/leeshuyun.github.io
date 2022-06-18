@@ -1,5 +1,5 @@
 # leeshuyun.github.io
-This repo contains source code for leeshuyun.github.io\
+This repo contains source code for leeshuyun.github.io
 
 # License
 Source code is licensed under GNU GPLv3
